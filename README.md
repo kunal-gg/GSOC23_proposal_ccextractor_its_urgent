@@ -4,7 +4,26 @@
 ---
 
 ### Project Overview 
-When the phone is in do not disturb mode it doesn't receive any messages/calls. No matter how seriouis the situation could be, the phone restricts all possible sources of contact. This can proove to have serious consequences in case of emergencies. It's urgent proposes a solution to 
+When the phone is in do not disturb mode it doesn't receive any messages/calls. No matter how seriouis the situation could be, the phone restricts all possible sources of contact. This can proove to have serious consequences in case of emergencies. It's urgent proposes a solution to allow a user when he wants to be interupted and not
+
+---
+
+### Goals For the project
+1. Build a UI for the project
+2. Be able to send notifications on 
+3. Set up a database to store the details of each user who downloads the app
+4. Deploy the app on playstore
+5. Set up CI/CD for the project
+
+### Tentative Plan for the summer
+
+### My Previous Contributions in CCExtractor 
+I have gone through the repositories in ccextractor before. I have the following PRs merged.
+1. https://github.com/CCExtractor/taskwarrior-flutter/pull/51
+2. https://github.com/CCExtractor/taskwarrior-flutter/pull/54
+3. https://github.com/CCExtractor/taskwarrior-flutter/pull/53
+4. https://github.com/CCExtractor/taskwarrior-flutter/pull/56
+5. https://github.com/CCExtractor/taskwarrior-flutter/pull/69
 
 ### Background 
 I am second year undergraduate student at the Indian Institue of Technology Jodhpur. I am passionate about open source development and really like building real world applications which people can use. I have been contributing to open source for about a year now. Some of my projects which I have worked upon are:
