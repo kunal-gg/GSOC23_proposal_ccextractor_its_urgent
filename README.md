@@ -9,13 +9,19 @@ When the phone is in do not disturb mode it doesn't receive any messages/calls. 
 ---
 
 ### Goals For the project
-1. Build a UI for the project
-2. Be able to send notifications on 
-3. Set up a database to store the details of each user who downloads the app
-4. Deploy the app on playstore
-5. Set up CI/CD for the project
+
+1. Implement a login system, where the user can login using their phone number 
+2. Build the complete UI for the project 
+3. Be able to detect if the other user is in do not disturb mode or not.
+4. Send an urgent notfications only if the receiving user is in do not disturb mode
+5. Set up a database to store the details of each user who downloads the app.
+6. Deploy the app on playstore
+7. Set up CI/CD for the project
+8. Adding unit tests once any feature is complete
 
 ### Tentative Plan for the summer
+
+---
 
 ### My Previous Contributions in CCExtractor 
 I have gone through the repositories in ccextractor before. I have the following PRs merged.
