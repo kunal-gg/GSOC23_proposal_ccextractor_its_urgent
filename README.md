@@ -130,7 +130,8 @@ This is a link of the Github Repo of the take home assignment given to us. I hav
  While researching about this project I tried to implement how we could implement a solution for this. As a result of which I am attatchig a video and the github repo of the solution which I built. At the moment I am sending to a notification to myself, however we would easily send it to another person as well. We would just need to query the phone-number and replace the token in the code. 
  
  [GitHub](https://github.com/kunal-gg/UrgentNotifications)
- [Vdieo]()
+ [Video]()
+ 
  ---
   
 
